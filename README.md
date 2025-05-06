@@ -18,7 +18,7 @@ replace <<INSERT CORRECT MODEL NAME HERE>> with
  ———————————————
  # Task 3.4 replace INSERT TOOL TO USE with
  
- weather_tool
+ [weather_tool]
  
  ——————————————
  # Task 4.1 replace <<INSERT CORRECT MODEL NAME HERE>> with
